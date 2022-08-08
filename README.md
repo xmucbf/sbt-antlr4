@@ -28,7 +28,7 @@ Now, whenever you invoke `sbt compile` the ANTLR artifacts will be written to
 
 ## Settings
 
-You can select an antl4 version with:
+You can select an antlr4 version with:
 
     antlr4Version in Antlr4 := "4.8-1" // default: 4.8-1
 
